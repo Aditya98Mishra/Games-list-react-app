@@ -1,0 +1,26 @@
+
+#first{
+    display: inline-block;
+    width: 48%;
+    border: 1px solid red;
+    margin: auto;
+}
+
+
+#sec{
+    display: inline-block;
+    width: 48%;
+    vertical-align: top;
+    margin-top: 0%;
+    border: 1px solid red;
+    margin: auto;
+}
+
+th{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+td{
+    
+}

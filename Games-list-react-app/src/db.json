@@ -1,0 +1,81 @@
+{
+  "games": [
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forkids": true,
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "id": 1
+    },
+    {
+      "gamename": "test",
+      "gameauthor": "test",
+      "gametags": "test",
+      "gameprice": "500",
+      "checkbox": "on",
+      "gamedesc": "testing",
+      "id": 2
+    },
+    {
+      "gamename": "test",
+      "gameauthor": "test",
+      "gametags": "test",
+      "gameprice": "5000",
+      "checkbox": "on",
+      "gamedesc": "testing",
+      "id": 3
+    },
+    {
+      "gamename": "check",
+      "gameauthor": "check",
+      "gametags": "check",
+      "gameprice": "4500",
+      "checkbox": "on",
+      "gamedesc": "checking",
+      "id": 4
+    },
+    {
+      "gamename": "njbclc",
+      "gameauthor": "jbcubub",
+      "gametags": "kukkbsf",
+      "gameprice": "500",
+      "checkbox": "on",
+      "gamedesc": "jbuboubou",
+      "id": 5
+    },
+    {
+      "gamename": "jbkjblj",
+      "gameauthor": "khbkiug",
+      "gametags": "jbkbkb",
+      "gameprice": "4551",
+      "checkbox": "on",
+      "gamedesc": "qweefgf",
+      "gamerating": "4",
+      "id": 6
+    },
+    {
+      "gamename": "mmpm",
+      "gameauthor": "mnlknlk",
+      "gametags": "juhio",
+      "gameprice": "25",
+      "checkbox": "on",
+      "gamedesc": "jlnl",
+      "gamerating": "3",
+      "id": 7
+    },
+    {
+      "gamename": "test",
+      "gameauthor": "test",
+      "gametags": "test",
+      "gameprice": "500",
+      "checkbox": "on",
+      "gamedesc": "testing",
+      "gamerating": "4",
+      "id": 8
+    }
+    
+  ]
+}
